@@ -12,6 +12,7 @@ rohit
 musk
 hacker
 idle
+jasmine
 queen
 king
 naruto
